@@ -62,8 +62,8 @@ Griffith College, Dublin
 ## 📫 Get in Touch
 
 - **Email**: [mohammed_addi@yahoo.com](mailto:mohammed_addi@yahoo.com)
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/mohammed-addi-9858aa19b)
-- **Portfolio**: [your-portfolio-link](https://ai-mohammed.github.io/my-portfolio/)
+- **LinkedIn**: [mohammed-addi](https://linkedin.com/in/mohammed-addi-9858aa19b)
+- **Portfolio**: [ai-mohammed](https://ai-mohammed.github.io/my-portfolio/)
 
 ---
 
