@@ -1,5 +1,3 @@
-![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
-
 # 👋 Hello! I'm **Mohammed**
 
 ## 🌍 About Me
