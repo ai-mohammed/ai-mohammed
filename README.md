@@ -1,7 +1,7 @@
 # 👋 Hello! I'm **Mohammed**
 
 ## 🌍 About Me
-I’m a **3rd-year student** specializing in **Artificial Intelligence** at **EPTAA** in Paris. My journey in tech combines a passion for **AI** with **digital marketing**, aiming to develop innovative solutions that enhance user experiences and optimize marketing strategies.
+I’m a **3rd-year student** specializing in **Artificial Intelligence** at **EPITA** in Paris. My journey in tech combines a passion for **AI** with **digital marketing**, aiming to develop innovative solutions that enhance user experiences and optimize marketing strategies.
 
 - 🎓 **Current Study**: Bachelor’s in AI
 - 🚀 **Career Goal**: Innovating in AI-driven marketing solutions
