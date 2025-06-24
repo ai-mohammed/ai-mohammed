@@ -32,7 +32,7 @@ I’m a **3rd-year student** specializing in **Artificial Intelligence** at **EP
 | **Intermediate** | **Intermediate** | **Intermediate** |
 
 ---
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-mohammed&theme=tokyonight" />
@@ -46,7 +46,7 @@ I’m a **3rd-year student** specializing in **Artificial Intelligence** at **EP
    <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-mohammed&theme=tokyonight" />
 
 </div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-mohammed&show_icons=true&theme=radical)
 ---
 
 ## 🚀 Current Projects
@@ -78,12 +78,6 @@ Griffith College, Dublin
 - **Email**: [mohammed_addi@yahoo.com](mailto:mohammed_addi@yahoo.com)
 - **LinkedIn**: [mohammed-addi](https://linkedin.com/in/mohammed-addi-9858aa19b)
 - **Portfolio**: [ai-mohammed](https://mohammed-addi.netlify.app/)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-mohammed&show_icons=true&theme=radical)
 
 ---
 
