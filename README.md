@@ -87,9 +87,4 @@ Griffith College, Dublin
 
 ---
 
-## 🎉 Fun Fact
-I’m a fitness enthusiast who believes in the power of a healthy lifestyle to fuel creativity and productivity. 🏃‍♂️💪
-
----
-
 ### 🌟 Thanks for visiting my profile! Let’s connect and innovate together!
