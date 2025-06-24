@@ -1,11 +1,5 @@
 # 👋 Hello! I'm **Mohammed**
 
-<a href="https://github.com/ai-mohammed">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=AI+Enthusiast;Passionate+Software+Developer;Always+learning+new+things;Exploring+the+world+of+AI;Building+intelligent+systems;Innovating+with+technology">
-
-</a>
-
-
 ## 🌍 About Me
 I’m a **3rd-year student** specializing in **Artificial Intelligence** at **EPITA** in Paris. My journey in tech combines a passion for **AI** with **digital marketing**, aiming to develop innovative solutions that enhance user experiences and optimize marketing strategies.
 
