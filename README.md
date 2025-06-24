@@ -32,6 +32,20 @@ I’m a **3rd-year student** specializing in **Artificial Intelligence** at **EP
 | **Intermediate** | **Intermediate** | **Intermediate** |
 
 ---
+## 📊 Stats
+
+<p align="center">
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-mohammed&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-mohammed&theme=tokyonight" />
+
+</p>
+
+<div align="center" margin="20px">
+
+   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-mohammed&theme=tokyonight" />
+
+---
 
 ## 🚀 Current Projects
 - **Jersey Detection Model**: Creating a model to detect player jersey numbers in sports analytics for better team insights.
@@ -61,7 +75,7 @@ Griffith College, Dublin
 
 - **Email**: [mohammed_addi@yahoo.com](mailto:mohammed_addi@yahoo.com)
 - **LinkedIn**: [mohammed-addi](https://linkedin.com/in/mohammed-addi-9858aa19b)
-- **Portfolio**: [ai-mohammed](https://ai-mohammed.github.io/my-portfolio/)
+- **Portfolio**: [ai-mohammed](https://mohammed-addi.netlify.app/)
 
 ---
 
