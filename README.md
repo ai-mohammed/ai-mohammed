@@ -45,6 +45,8 @@ I’m a **3rd-year student** specializing in **Artificial Intelligence** at **EP
 
    <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-mohammed&theme=tokyonight" />
 
+</div>
+
 ---
 
 ## 🚀 Current Projects
