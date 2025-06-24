@@ -44,10 +44,9 @@ I’m a **3rd-year student** specializing in **Artificial Intelligence** at **EP
 <div align="center" margin="20px">
 
    <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-mohammed&theme=tokyonight" />
+   <img width="75%" src="https://github-readme-stats.vercel.app/api?username=ai-mohammed&show_icons=true&theme=radical" />
 
 </div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-mohammed&show_icons=true&theme=radical)
 ---
 
 ## 🚀 Current Projects
