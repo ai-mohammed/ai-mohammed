@@ -1,7 +1,8 @@
 # 👋 Hello! I'm **Mohammed**
 
 <a href="https://github.com/ai-mohammed">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=AI+Enthusiast;Passionate+Software+Developer;Always+learning+new+things;Exploring+the+world+of+AI">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=AI+Enthusiast;Passionate+Software+Developer;Always+learning+new+things;Exploring+the+world+of+AI;Building+intelligent+systems;Innovating+with+technology">
+
 </a>
 
 
