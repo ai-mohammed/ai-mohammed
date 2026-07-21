@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:0A66C2&height=220&section=header&text=Turning%20complex%20problems%20into%20deployable%20systems&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=AI+%26+Software+Engineering+Student+%40+EPITA;Backend+Systems+%2B+Data+Pipelines+%2B+Applied+AI;LLM-based+Information+Extraction;Turning+complex+problems+into+deployable+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=AI+%26+Software+Engineering+Student+%40+EPITA;Backend+Systems+%2B+Data+Pipelines+%2B+Applied+AI;LLM-based+Information+Extraction;Applied+ML+%2B+Computer+Vision" alt="Typing SVG" />
 
 <br>
 
@@ -12,11 +12,7 @@
 
 <br>
 
-[![About](https://img.shields.io/badge/About-2496ED?style=flat-square)](#about)
-[![Stack](https://img.shields.io/badge/Stack-0A66C2?style=flat-square)](#stack)
-[![Stats](https://img.shields.io/badge/Stats-2496ED?style=flat-square)](#stats)
-[![Beyond code](https://img.shields.io/badge/Beyond%20code-0A66C2?style=flat-square)](#beyond-code)
-[![Contact](https://img.shields.io/badge/Contact-2496ED?style=flat-square)](#contact)
+<sub><a href="#about">About</a> &nbsp;•&nbsp; <a href="#stack">Stack</a> &nbsp;•&nbsp; <a href="#stats">Stats</a> &nbsp;•&nbsp; <a href="#beyond-code">Beyond code</a> &nbsp;•&nbsp; <a href="#contact">Contact</a></sub>
 
 </div>
 
