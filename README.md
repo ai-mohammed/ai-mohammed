@@ -112,7 +112,7 @@ I enjoy turning complex problems into concrete, deployable systems - backend API
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/2496ED/ai-mohammed" alt="Mohammed's GitHub contribution chart" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ai-mohammed&theme=react-dark&hide_border=true&bg_color=00000000&color=2496ED&line=2496ED&point=0A66C2&area=true&area_color=2496ED" alt="Mohammed's GitHub activity graph" width="90%" />
 
 </div>
 
