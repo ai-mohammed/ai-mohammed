@@ -34,14 +34,14 @@ I enjoy turning complex problems into concrete, deployable systems - backend API
 **🔭 Currently focused on**
 
 ![Applied AI & ML](https://img.shields.io/badge/-Applied%20AI%20%26%20Machine%20Learning-2496ED?style=flat-square)
-![LLM Extraction](https://img.shields.io/badge/-LLM--based%20Information%20Extraction-2496ED?style=flat-square)
-![Backend](https://img.shields.io/badge/-Backend%20%26%20Distributed%20Systems-2496ED?style=flat-square)
+![LLM Extraction](https://img.shields.io/badge/-LLM--based%20Information%20Extraction-6f42c1?style=flat-square)
+![Backend](https://img.shields.io/badge/-Backend%20%26%20Distributed%20Systems-00b8a3?style=flat-square)
 
 **🌱 Also exploring**
 
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision%20%26%20Image%20Processing-0A66C2?style=flat-square)
-![MLOps](https://img.shields.io/badge/-MLOps%20%26%20Cloud--Native%20Dev-0A66C2?style=flat-square)
-![Sports Analytics](https://img.shields.io/badge/-Football%20%26%20Sports%20Analytics-0A66C2?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision%20%26%20Image%20Processing-fd7e14?style=flat-square)
+![MLOps](https://img.shields.io/badge/-MLOps%20%26%20Cloud--Native%20Dev-2ea44f?style=flat-square)
+![Sports Analytics](https://img.shields.io/badge/-Football%20%26%20Sports%20Analytics-e83e8c?style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
 
