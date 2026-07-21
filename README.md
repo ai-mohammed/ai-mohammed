@@ -28,28 +28,20 @@ I'm an engineering student at **EPITA** in Paris, focused on **artificial intell
 
 I enjoy turning complex problems into concrete, deployable systems - backend APIs, data pipelines, machine learning models, and cloud-native applications.
 
-> Also completed an international academic exchange at **Griffith College Dublin** 🇮🇪
-
-<table>
-<tr>
-<td valign="top" width="50%">
+> [!TIP]
+> Completed an international academic exchange at **Griffith College Dublin**, Ireland.
 
 **🔭 Currently focused on**
-- Applied AI and machine learning
-- LLM-based information extraction
-- Backend and distributed systems
 
-</td>
-<td valign="top" width="50%">
+![Applied AI & ML](https://img.shields.io/badge/-Applied%20AI%20%26%20Machine%20Learning-2496ED?style=flat-square)
+![LLM Extraction](https://img.shields.io/badge/-LLM--based%20Information%20Extraction-2496ED?style=flat-square)
+![Backend](https://img.shields.io/badge/-Backend%20%26%20Distributed%20Systems-2496ED?style=flat-square)
 
 **🌱 Also exploring**
-- Computer vision and image processing
-- MLOps and cloud-native development
-- Football and sports analytics
 
-</td>
-</tr>
-</table>
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision%20%26%20Image%20Processing-0A66C2?style=flat-square)
+![MLOps](https://img.shields.io/badge/-MLOps%20%26%20Cloud--Native%20Dev-0A66C2?style=flat-square)
+![Sports Analytics](https://img.shields.io/badge/-Football%20%26%20Sports%20Analytics-0A66C2?style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
 
