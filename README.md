@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/mohammed-addi-9858aa19b/"><img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="https://mohammed-addi.netlify.app/"><img src="https://skillicons.dev/icons?i=vercel" height="32" alt="Portfolio" /></a>
+<a href="https://mohammed-addi.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify" height="32" alt="Portfolio" /></a>
 &nbsp;&nbsp;
 <a href="mailto:mohammed_addi@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" /></a>
 
