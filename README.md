@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:0A66C2&height=200&section=header&text=Mohammed%20Addi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:0A66C2&height=220&section=header&text=Mohammed%20Addi&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=AI+%26+Software+Engineering+Student+%40+EPITA;Backend+Systems+%2B+Data+Pipelines+%2B+Applied+AI;Turning+complex+problems+into+deployable+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=AI+%26+Software+Engineering+Student+%40+EPITA;Backend+Systems+%2B+Data+Pipelines+%2B+Applied+AI;LLM-based+Information+Extraction;Turning+complex+problems+into+deployable+systems" alt="Typing SVG" />
 
 <br>
 
@@ -10,33 +10,53 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammed-addi.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed_addi@yahoo.com)
 
+<br>
+
+<a href="#about">About</a> ·
+<a href="#stack">Stack</a> ·
+<a href="#stats">Stats</a> ·
+<a href="#beyond-code">Beyond code</a> ·
+<a href="#contact">Contact</a>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
 
-<h3>About me</h3>
+<h3 id="about">🎓 About me</h3>
 
 I'm an engineering student at **EPITA** in Paris, focused on **artificial intelligence** and **software engineering**.
 
 I enjoy turning complex problems into concrete, deployable systems - backend APIs, data pipelines, machine learning models, and cloud-native applications.
 
-**Main interests:**
+> Also completed an international academic exchange at **Griffith College Dublin** 🇮🇪
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🔭 Currently focused on**
 - Applied AI and machine learning
 - LLM-based information extraction
 - Backend and distributed systems
+
+</td>
+<td valign="top" width="50%">
+
+**🌱 Also exploring**
 - Computer vision and image processing
 - MLOps and cloud-native development
 - Football and sports analytics
 
-I also completed an international academic exchange at **Griffith College Dublin**.
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
 
-<h3>Technical stack</h3>
+<h3 id="stack">🛠️ Technical stack</h3>
 
 <table>
-<tr><td valign="top" width="140"><b>Languages</b></td><td>
+<tr><td valign="top" width="150"><b>Languages</b></td><td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -86,9 +106,13 @@ I also completed an international academic exchange at **Griffith College Dublin
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
 
-<h3>GitHub activity</h3>
+<h3 id="stats">📊 GitHub stats</h3>
 
 <div align="center">
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ai-mohammed&hide_border=true&background=00000000&ring=2496ED&fire=0A66C2&currStreakLabel=2496ED&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
+
+<br><br>
 
 [![Followers](https://img.shields.io/github/followers/ai-mohammed?label=Followers&style=for-the-badge&color=2496ED&logo=github&logoColor=white)](https://github.com/ai-mohammed?tab=followers)
 [![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fai-mohammed&label=Repositories&query=%24.public_repos&style=for-the-badge&color=0A66C2&logo=github&logoColor=white)](https://github.com/ai-mohammed?tab=repositories)
@@ -102,15 +126,15 @@ I also completed an international academic exchange at **Griffith College Dublin
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
 
-<h3>Beyond code</h3>
+<h3 id="beyond-code">⚽ Beyond code</h3>
 
 I'm particularly interested in applying artificial intelligence to real-world domains such as sports analytics, intelligent information monitoring, and decision-support systems.
 
 I value ambitious projects, continuous learning, and building systems that are both technically solid and genuinely useful.
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
 
-<div align="center">
+<div align="center" id="contact">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:0A66C2&height=150&section=footer" width="100%" />
 
 <sub>Let's connect — <a href="https://www.linkedin.com/in/mohammed-addi-9858aa19b/">LinkedIn</a> · <a href="https://mohammed-addi.netlify.app/">Portfolio</a> · <a href="mailto:mohammed_addi@yahoo.com">Email</a></sub>
