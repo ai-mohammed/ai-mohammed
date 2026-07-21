@@ -80,10 +80,10 @@ I also completed an international academic exchange at **Griffith College Dublin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ai-mohammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-mohammed&layout=compact&theme=tokyonight&hide_border=true" />
+[![GitHub followers](https://img.shields.io/github/followers/ai-mohammed?label=Followers&style=for-the-badge&color=0A66C2)](https://github.com/ai-mohammed)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ai-mohammed&label=Repositories&query=%24.public_repos&style=for-the-badge&color=181717)](https://github.com/ai-mohammed?tab=repositories)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-mohammed&theme=tokyonight&hide_border=true" />
+<img src="https://ghchart.rshah.org/2496ED/ai-mohammed" alt="Mohammed's GitHub contribution chart" width="90%" />
 
 </div>
 
