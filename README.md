@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:0A66C2&height=220&section=header&text=Turning%20complex%20problems%20into%20deployable%20systems&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mohammed%20Addi%20-%20EPITA&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:0A66C2&height=220&section=header&text=Turning%20complex%20problems%20into%20deployable%20systems&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=AI+%26+Software+Engineering+Student+%40+EPITA;Backend+Systems+%2B+Data+Pipelines+%2B+Applied+AI;LLM-based+Information+Extraction;Turning+complex+problems+into+deployable+systems" alt="Typing SVG" />
 
