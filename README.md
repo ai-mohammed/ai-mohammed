@@ -1,84 +1,106 @@
-# 👋 Hello! I'm **Mohammed**
+<div align="center">
 
-## 🌍 About Me
-I’m a **3rd-year student** specializing in **Artificial Intelligence** at **EPITA** in Paris. My journey in tech combines a passion for **AI** with **digital marketing**, aiming to develop innovative solutions that enhance user experiences and optimize marketing strategies.
+# Mohammed Addi
 
-- 🎓 **Current Study**: Bachelor’s in AI
-- 🚀 **Career Goal**: Innovating in AI-driven football solutions
-- 🌱 **Hobbies**: Fitness, running, and exploring new technologies
+**AI & Software Engineering Student @ EPITA**
+Building applied AI systems, backend services and data-driven applications.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-addi-9858aa19b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammed-addi.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed_addi@yahoo.com)
 
-## 💻 Skills & Technologies
-
-### Programming Languages
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
-|---|---|---|
-| **Intermediate** | **Advanced** | **Intermediate** |
-
-### Web Development
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
-|---|---|---|---|
-| **Intermediate** | **Intermediate** | **Intermediate** | **Intermediate** |
-
-### Machine Learning
-| ![ML](https://img.shields.io/badge/Machine%20Learning-FF9900?style=flat&logo=google&logoColor=white) |
-|---|
-| **Advanced** |
-
-### Tools
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | ![Roboflow](https://img.shields.io/badge/Roboflow-3C3F41?style=flat&logo=roboflow&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
-|---|---|---|
-| **Intermediate** | **Intermediate** | **Intermediate** |
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ai-mohammed&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-mohammed&theme=tokyonight" />
-
-</p>
-
-<div align="center" margin="20px">
-
-   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-mohammed&theme=tokyonight" />
-   
 </div>
 
----
+<br>
 
-## 🚀 Current Projects
-- **Jersey Detection Model**: Creating a model to detect player jersey numbers in sports analytics for better team insights.
+## About me
 
+I'm an engineering student at **EPITA** in Paris, focused on **artificial intelligence** and **software engineering**.
 
----
+I enjoy turning complex problems into concrete, deployable systems — backend APIs, data pipelines, machine learning models, and cloud-native applications.
 
-## 🎓 Education
+**Main interests:**
+- Applied AI and machine learning
+- LLM-based information extraction
+- Backend and distributed systems
+- Computer vision and image processing
+- MLOps and cloud-native development
+- Football and sports analytics
 
-**Bachelor’s Degree in Artificial Intelligence**  
-*Expected Graduation: 2025*
+I also completed an international academic exchange at **Griffith College Dublin**.
 
-**International Studies**  
-Griffith College, Dublin
+<br>
 
----
+## Technical stack
 
-## 🌱 Interests
+**Languages**
 
-- **AI & Digital Marketing**: Passionate about the intersection of technology and marketing.
-- **Innovative Projects**: Eager to explore and develop practical AI applications.
-- **Open-Source Contributions**: Engaging with the community through collaborative projects.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
----
+**Backend & data**
 
-## 📫 Get in Touch
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
-- **Email**: [mohammed_addi@yahoo.com](mailto:mohammed_addi@yahoo.com)
-- **LinkedIn**: [mohammed-addi](https://linkedin.com/in/mohammed-addi-9858aa19b)
-- **Portfolio**: [mohammed-addi](https://mohammed-addi.netlify.app/)
+**Artificial intelligence**
 
----
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LLM Pipelines](https://img.shields.io/badge/LLM%20Pipelines-412991?style=flat-square&logo=openai&logoColor=white)
 
-### 🌟 Thanks for visiting my profile! Let’s connect and innovate together!
+**Infrastructure & tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Currently exploring**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-4B32C3?style=flat-square)
+![Cloud Native](https://img.shields.io/badge/Cloud--Native%20Architectures-326CE5?style=flat-square&logo=cloudfoundry&logoColor=white)
+
+<br>
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ai-mohammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-mohammed&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-mohammed&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+## Beyond code
+
+I'm particularly interested in applying artificial intelligence to real-world domains such as sports analytics, intelligent information monitoring, and decision-support systems.
+
+I value ambitious projects, continuous learning, and building systems that are both technically solid and genuinely useful.
+
+<br>
+
+<div align="center">
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/mohammed-addi-9858aa19b/) · [Portfolio](https://mohammed-addi.netlify.app/) · [Email](mailto:mohammed_addi@yahoo.com)
+
+</div>
