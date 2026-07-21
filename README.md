@@ -23,8 +23,7 @@ I'm an engineering student at **EPITA** in Paris, focused on **artificial intell
 
 I enjoy turning complex problems into concrete, deployable systems - backend APIs, data pipelines, machine learning models, and cloud-native applications.
 
-> [!TIP]
-> Completed an international academic exchange at **Griffith College Dublin**, Ireland.
+> 🌍 Completed an international academic exchange at **Griffith College Dublin**, Ireland.
 
 **🔭 Currently focused on**
 - Applied AI and machine learning
