@@ -12,7 +12,11 @@
 
 <br>
 
-<sub><a href="#about">About</a> &nbsp;•&nbsp; <a href="#stack">Stack</a> &nbsp;•&nbsp; <a href="#stats">Stats</a> &nbsp;•&nbsp; <a href="#beyond-code">Beyond code</a> &nbsp;•&nbsp; <a href="#contact">Contact</a></sub>
+[![About](https://img.shields.io/badge/🧑‍💻_About-2496ED?style=for-the-badge)](#about)
+[![Stack](https://img.shields.io/badge/🛠️_Stack-000000?style=for-the-badge)](#stack)
+[![Stats](https://img.shields.io/badge/📊_Stats-0A66C2?style=for-the-badge)](#stats)
+[![Beyond code](https://img.shields.io/badge/⚽_Beyond_code-2496ED?style=for-the-badge)](#beyond-code)
+[![Contact](https://img.shields.io/badge/✉️_Contact-D14836?style=for-the-badge)](#contact)
 
 </div>
 
