@@ -6,23 +6,18 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-addi-9858aa19b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammed-addi.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed_addi@yahoo.com)
-
-<br>
-
-[![About](https://img.shields.io/badge/🧑‍💻_About-2496ED?style=for-the-badge)](#about)
-[![Stack](https://img.shields.io/badge/🛠️_Stack-000000?style=for-the-badge)](#stack)
-[![Stats](https://img.shields.io/badge/📊_Stats-0A66C2?style=for-the-badge)](#stats)
-[![Beyond code](https://img.shields.io/badge/⚽_Beyond_code-2496ED?style=for-the-badge)](#beyond-code)
-[![Contact](https://img.shields.io/badge/✉️_Contact-D14836?style=for-the-badge)](#contact)
+<a href="https://www.linkedin.com/in/mohammed-addi-9858aa19b/"><img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="https://mohammed-addi.netlify.app/"><img src="https://skillicons.dev/icons?i=vercel" height="32" alt="Portfolio" /></a>
+&nbsp;&nbsp;
+<a href="mailto:mohammed_addi@yahoo.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
+<br>
 
-<h3 id="about">🎓 About me</h3>
+<details open>
+<summary><h3>🎓 About me</h3></summary>
 
 I'm an engineering student at **EPITA** in Paris, focused on **artificial intelligence** and **software engineering**.
 
@@ -32,20 +27,19 @@ I enjoy turning complex problems into concrete, deployable systems - backend API
 > Completed an international academic exchange at **Griffith College Dublin**, Ireland.
 
 **🔭 Currently focused on**
-
-![Applied AI & ML](https://img.shields.io/badge/-Applied%20AI%20%26%20Machine%20Learning-2496ED?style=flat-square)
-![LLM Extraction](https://img.shields.io/badge/-LLM--based%20Information%20Extraction-6f42c1?style=flat-square)
-![Backend](https://img.shields.io/badge/-Backend%20%26%20Distributed%20Systems-00b8a3?style=flat-square)
+- Applied AI and machine learning
+- LLM-based information extraction
+- Backend and distributed systems
 
 **🌱 Also exploring**
+- Computer vision and image processing
+- MLOps and cloud-native development
+- Football and sports analytics
 
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision%20%26%20Image%20Processing-fd7e14?style=flat-square)
-![MLOps](https://img.shields.io/badge/-MLOps%20%26%20Cloud--Native%20Dev-2ea44f?style=flat-square)
-![Sports Analytics](https://img.shields.io/badge/-Football%20%26%20Sports%20Analytics-e83e8c?style=flat-square)
+</details>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
-
-<h3 id="stack">🛠️ Technical stack</h3>
+<details>
+<summary><h3>🛠️ Technical stack</h3></summary>
 
 <table>
 <tr><td valign="top" width="150"><b>Languages</b></td><td>
@@ -96,38 +90,34 @@ I enjoy turning complex problems into concrete, deployable systems - backend API
 </td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
+</details>
 
-<h3 id="stats">📊 GitHub stats</h3>
+<details>
+<summary><h3>📊 GitHub stats</h3></summary>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ai-mohammed&hide_border=true&background=00000000&ring=2496ED&fire=0A66C2&currStreakLabel=2496ED&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ai-mohammed&hide_border=true&background=0d1117&ring=2496ED&fire=2496ED&currStreakLabel=2496ED&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 <br><br>
 
-[![Followers](https://img.shields.io/github/followers/ai-mohammed?label=Followers&style=for-the-badge&color=2496ED&logo=github&logoColor=white)](https://github.com/ai-mohammed?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fai-mohammed&label=Repositories&query=%24.public_repos&style=for-the-badge&color=0A66C2&logo=github&logoColor=white)](https://github.com/ai-mohammed?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=ai-mohammed&label=Profile+Views&color=181717&style=for-the-badge)](https://github.com/ai-mohammed)
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ai-mohammed&theme=react-dark&hide_border=true&bg_color=00000000&color=2496ED&line=2496ED&point=0A66C2&area=true&area_color=2496ED" alt="Mohammed's GitHub activity graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ai-mohammed&theme=react-dark&hide_border=true&bg_color=0d1117&color=2496ED&line=2496ED&point=2496ED&area=true&area_color=2496ED" alt="Mohammed's GitHub activity graph" width="90%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
+</details>
 
-<h3 id="beyond-code">⚽ Beyond code</h3>
+<details>
+<summary><h3>⚽ Beyond code</h3></summary>
 
 I'm particularly interested in applying artificial intelligence to real-world domains such as sports analytics, intelligent information monitoring, and decision-support systems.
 
 I value ambitious projects, continuous learning, and building systems that are both technically solid and genuinely useful.
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2496ED,100:0A66C2&height=3&section=header" width="100%" />
+</details>
 
-<div align="center" id="contact">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:0A66C2&height=150&section=footer" width="100%" />
+<br>
 
-<sub>Let's connect — <a href="https://www.linkedin.com/in/mohammed-addi-9858aa19b/">LinkedIn</a> · <a href="https://mohammed-addi.netlify.app/">Portfolio</a> · <a href="mailto:mohammed_addi@yahoo.com">Email</a></sub>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:0A66C2&height=120&section=footer" width="100%" />
 </div>
