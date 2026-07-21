@@ -18,7 +18,7 @@
 
 I'm an engineering student at **EPITA** in Paris, focused on **artificial intelligence** and **software engineering**.
 
-I enjoy turning complex problems into concrete, deployable systems — backend APIs, data pipelines, machine learning models, and cloud-native applications.
+I enjoy turning complex problems into concrete, deployable systems - backend APIs, data pipelines, machine learning models, and cloud-native applications.
 
 **Main interests:**
 
